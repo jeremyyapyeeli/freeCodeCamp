@@ -26,4 +26,5 @@ You must use Pandas to answer the following questions:
 Round all decimals to the nearest tenth.
 
 ## Libraries Required
-Pandas
+
+- Pandas
