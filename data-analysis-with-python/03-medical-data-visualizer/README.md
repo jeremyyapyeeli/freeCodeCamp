@@ -24,7 +24,7 @@ Dataset: `medical_examination.csv`
 
 ## Tasks
 
-Use the data to complete the following tasks in `medical_data_visualizer_starter.py`:
+Use the data to complete the following tasks:
 
 - Add an `overweight` column to the data.
   - To determine if a person is overweight, first calculate their BMI by dividing their weight in kilograms by the square of their height in meters.
@@ -45,10 +45,10 @@ Use the data to complete the following tasks in `medical_data_visualizer_starter
   - The chart should look like this:
   ![heatmap](https://user-images.githubusercontent.com/88024785/229280765-01ee8b03-b08f-4b5c-a9df-dc56ce2cf268.png)
 
-Any time a variable is set to `None`, make sure to set it to the correct code.
 
 ## Libraries Required
-Pandas
-Seaborn
-Matplotlin
-NumPy
+
+- Pandas
+- Seaborn
+- Matplotlin
+- NumPy
